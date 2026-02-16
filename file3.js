@@ -1,5 +1,1 @@
-<script>
-    function showMessage() {
-        alert("Hello! Button clicked.");
-    }
-</script>
+console.log("hello World!");
